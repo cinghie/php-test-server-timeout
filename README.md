@@ -1,4 +1,7 @@
 # Php Test Server Timeout
+![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/cinghie/php-test-server-timeout)
+![GitHub all releases](https://img.shields.io/github/downloads/cinghie/php-test-server-timeout/total)
 
 This script performs a self-request to the server to verify its availability and response behavior: 
 
